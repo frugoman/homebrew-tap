@@ -1,6 +1,6 @@
 cask "meeting-flash" do
-  version "1.0.0"
-  sha256 "61a343aee99a0a9e5f05388e1af097f659390301ec101c3ce4d8ac0cca5bddd6"
+  version "1.1.0"
+  sha256 "f9886233ed7441c6e0a99228e9716696143aa489efae8d276ce60d1c33c3cca3"
 
   url "https://github.com/frugoman/meeting-flash/releases/download/v#{version}/MeetingFlash-#{version}.zip"
   name "MeetingFlash"
