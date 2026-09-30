@@ -2,10 +2,10 @@ cask "meeting-flash" do
   version "1.1.0"
   sha256 "f9886233ed7441c6e0a99228e9716696143aa489efae8d276ce60d1c33c3cca3"
 
-  url "https://github.com/frugoman/meeting-flash/releases/download/v#{version}/MeetingFlash-#{version}.zip"
+  url "https://github.com/frugoman/homebrew-tap/releases/download/meeting-flash-v#{version}/MeetingFlash-#{version}.zip"
   name "MeetingFlash"
   desc "Menu bar app that flashes the screen red right before a calendar meeting starts"
-  homepage "https://github.com/frugoman/meeting-flash"
+  homepage "https://github.com/frugoman/homebrew-tap"
 
   depends_on macos: :sonoma
 
