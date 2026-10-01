@@ -1,6 +1,6 @@
 cask "meeting-flash" do
-  version "1.2.0"
-  sha256 "5e3a8621f17551972f0ff380bd4bb7a40abe401daf886096b12e29e705b94ffe"
+  version "1.2.1"
+  sha256 "f874a823af35bdde43bda574db3ccc189f77eb3621be461bb3be15ac8b8af286"
 
   url "https://github.com/frugoman/homebrew-tap/releases/download/meeting-flash-v#{version}/MeetingFlash-#{version}.zip"
   name "MeetingFlash"
