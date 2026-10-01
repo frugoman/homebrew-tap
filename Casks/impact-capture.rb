@@ -1,6 +1,6 @@
 cask "impact-capture" do
-  version "1.0.0"
-  sha256 "264b3343a033a6d49942186ce086f30768454ff5a88f362f9c98a6f72a80ae18"
+  version "1.1.0"
+  sha256 "20fc6f342d63d826ab055c58552e2c068a5c618ac66186f5325f6c1a206937de"
 
   url "https://github.com/frugoman/homebrew-tap/releases/download/impact-capture-v#{version}/Impact-Capture-#{version}.zip"
   name "Impact Capture"
