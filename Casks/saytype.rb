@@ -1,6 +1,6 @@
 cask "saytype" do
-  version "1.1.4"
-  sha256 "93693756811b2b30a067a31a77bc2cf704fae5e29ddd86795e03fe681bcf630e"
+  version "1.1.5"
+  sha256 "7f0373c47bb1dd0920043d5f799abb9539b0b0895661b1a73de65b5a4df929b3"
 
   url "https://github.com/frugoman/homebrew-tap/releases/download/saytype-v#{version}/SayType-#{version}.zip"
   name "SayType"
